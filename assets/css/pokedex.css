@@ -95,9 +95,15 @@
 
 .pokemon .name {
     text-transform: capitalize;
-    color: #fff;
+  
     margin-bottom: .25rem;
+    
 }
+
+a{
+    color: #fff;
+    text-decoration: none;
+}  
 
 .pokemon .detail {
     display: flex;
